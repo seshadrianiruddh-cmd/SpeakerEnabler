@@ -1,0 +1,6 @@
+{
+  "name": "Speaker Enabler",
+  "description": "Forcefully route audio to the loudspeaker or restore earphone output to bypass stuck headphone jack glitches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
